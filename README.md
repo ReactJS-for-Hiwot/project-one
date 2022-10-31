@@ -6,7 +6,7 @@
 
 This is a reactjs coding challenge.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+**To do this challenge, you need a basic understanding of HTML, CSS, JavaScript, and ReactJS.**
 
 ## The challenge
 
