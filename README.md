@@ -10,7 +10,7 @@ This is a reactjs coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this interactive rating component and get it looking as close to the design as possible.
+Your challenge is to build out this Rating app and get it looking as close to the design as possible.
 
 You must use the following tools to help you complete the challenge
 
